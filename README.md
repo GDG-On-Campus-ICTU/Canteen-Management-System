@@ -63,5 +63,35 @@ Follow these steps to set up and run the project locally:
 
 Clone the repository to your local machine:  
 
-```bash
-git clone https://github.com/your-username/Canteen-Management-System.git
+`git clone https://github.com/your-username/Canteen-Management-System.git`
+
+
+###🎨 4. Pick an Issue
+Look through the issues section. We've tagged some beginner-friendly issues with good first issue to help newcomers get started.
+
+###💡 5. **Create a New Feature Branch**
+Make a new branch to work on your feature or fix:
+
+`git checkout -b feature/your-feature-name`
+
+### 📝 6. **Make Your Changes**
+Edit files, add features, fix bugs, or update documentation. Be sure to test your changes thoroughly.
+
+### 🔄 7. **Commit Your Changes**
+Once you're happy with your changes, commit them with a descriptive message:
+
+`git add .`
+`git commit -m "Add a detailed message about your changes"`
+### ⬆️ 8. **Push to Your Branch**
+Push your changes back to your forked repository:
+
+`git push origin feature/your-feature-name`
+### 🔔 9. **Create a Pull Request**
+Go to your forked repository on GitHub and click on the "Compare & pull request" button. Fill out the PR template and submit it for review.
+
+## 🌍 Community & Support
+If you have any questions or need help, feel free to open an issue or reach out to the maintainers. We're here to support your journey in contributing to this project!
+
+
+
+
